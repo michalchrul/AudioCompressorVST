@@ -11,4 +11,4 @@ https://github.com/olilarkin/wdl-ol
 dsp++
 https://bitbucket.org/andrzejc/dsp
 
-You can contact me through michalchrul@gmail.com
+Contact: michalchrul@gmail.com
